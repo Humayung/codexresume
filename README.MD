@@ -6,6 +6,10 @@ This exists because, in some versions of Codex, previously saved sessions may no
 
 `codexresume` looks through the locally saved sessions for the current directory, shows them in a simple list, and lets you pick one to resume.
 
+### Native codex resume return no sessions history
+![Screenshot](native_codex_resume.png)
+
+### ./codexresume shows them all again
 ![Screenshot](ss.png)
 
 ## Usage
